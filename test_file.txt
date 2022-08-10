@@ -1,0 +1,2 @@
+Hello! This is the first line of a text file.
+This is the second line.
